@@ -1,0 +1,3 @@
+number_user = int(input("enter the first number "))
+number_user2 = int(input("enter the second number "))
+print(number_user + number_user2)
