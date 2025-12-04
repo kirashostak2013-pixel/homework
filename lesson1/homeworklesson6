@@ -1,0 +1,9 @@
+mass = [3,3,2,1,2,5,1,5,5]
+
+result = []
+
+for i in range(len(mass)):
+    if mass[i] not in result:
+        result.append(mass[i])
+
+print(result)
