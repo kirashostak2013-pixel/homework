@@ -20,3 +20,4 @@ if user_points > 6 and user_points < 16:
     print("you have a normal grade")
 else:
     print("you dont have a very good grade")
+
